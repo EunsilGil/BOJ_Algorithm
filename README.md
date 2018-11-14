@@ -10,5 +10,5 @@
 * 해당 문제에 대한 agorithm의 간략한 explanation을 최소한 1일 이내에 마크다운(.md) file로 commit한다.
 * 문제를 풀이하다가 새롭게 알게되는 정보들은 따로 [Organize the BOJ Algorithm](https://github.com/EunsilGil/Oranize-the-BOJ-Algorithm)에 정리한다.
 
-#Baekjoon Online Judge
-*[BOJ, 백준 온라인 저지](https://www.acmicpc.net/)
+# Baekjoon Online Judge
+* [BOJ, 백준 온라인 저지](https://www.acmicpc.net/)
